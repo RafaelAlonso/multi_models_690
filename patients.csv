@@ -1,0 +1,4 @@
+id,name,cured,blood_type,room_id
+1,gui,true,A+,1
+2,lucas,false,,2
+4,vanessa,true,AB+,2
